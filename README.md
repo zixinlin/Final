@@ -7,16 +7,16 @@ These are just a couple of many ideas and problems that can be solved using loca
 
 # Project Idea
 ***
-FourSquare is a mobile phone service website based on user location information (LBS), and encourages mobile phone users to share their current location and other information with others. Therefore, we can know whether restaurants in a certain area are more popular through this website. Generally speaking, the popularity of restaurants in a certain area is related to the income and population density of a certain area. Therefore, I will combine the data from the Beijing Bureau of Statistics and the data provided by Foursquare to provide recommendations for restaurant location.<br>
-Websites: http://nj.tjj.beijing.gov.cn/nj/main/2019-tjnj/zk/indexch.htm; https://foursquare.com/explore?mode=url&near=Beijing%2C%20Beijing%20Shi&nearGeoId=72057594039744606
+FourSquare is a mobile phone service website based on user location information (LBS), and encourages mobile phone users to share their current location and other information with others. Therefore, we can know whether restaurants in a certain area are more popular through this website. Generally speaking, the popularity of restaurants in a certain area is related to the income and population density of a certain area. Therefore, I will combine the data from the Canada Statistics and the data provided by Foursquare to provide recommendations for restaurant location.<br>
+Websites: https://www.toronto.ca/ext/open_data/catalog/data_set_files/2016_neighbourhood_profiles.csv; https://foursquare.com/explore?q=&near=toronto
  
 # Methodology
 ***
-I used the combination of the 2019 Beijing Census information and the map to visually show the wealthier and densely populated neighborhoods, while the Foursquare data shows the current restaurants in each area
+I used the combination of the 2016 Toronto information and the map to visually show the income, people movement and densely populated neighborhoods, while the Foursquare data shows the current restaurants in each area
 
 # Result
 ***
-Comparing the map, we can see that most restaurants are located in Dongcheng District and Chaoyang District, although some of the most prosperous and densely populated neighborhoods are in Xicheng District. Therefore, population density and per capita income do not reflect the number of restaurants.
+We can see that most restaurants are in the south, while the most prosperous neighborhoods are in the north, and the densely populated areas do not reflect the number of restaurants.
 
 # Discussion
 ***
@@ -24,4 +24,4 @@ This may be related to the insufficient sample size provided by Foursquare
 
 # Result
 ***
-This report may be helpful to those who wish to open a restaurant in Beijing, but it should also be considered in terms of population movement, transportation convenience and rent in Beijing.
+This report may be helpful to those who wish to open a restaurant in Toronto, but it should also be considered in terms of transportation convenience and rent.
