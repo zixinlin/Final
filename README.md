@@ -9,19 +9,19 @@ These are just a couple of many ideas and problems that can be solved using loca
 ***
 FourSquare is a mobile phone service website based on user location information (LBS), and encourages mobile phone users to share their current location and other information with others. Therefore, we can know whether restaurants in a certain area are more popular through this website. Generally speaking, the popularity of restaurants in a certain area is related to the income and population density of a certain area. Therefore, I will combine the data from the Beijing Bureau of Statistics and the data provided by Foursquare to provide recommendations for restaurant location.<br>
 Websites: http://nj.tjj.beijing.gov.cn/nj/main/2019-tjnj/zk/indexch.htm; https://foursquare.com/explore?mode=url&near=Beijing%2C%20Beijing%20Shi&nearGeoId=72057594039744606
-
-#Methodology
+ 
+# Methodology
 ***
 I used the combination of the 2019 Beijing Census information and the map to visually show the wealthier and densely populated neighborhoods, while the Foursquare data shows the current restaurants in each area
 
-#Result
+# Result
 ***
 Comparing the map, we can see that most restaurants are located in Dongcheng District and Chaoyang District, although some of the most prosperous and densely populated neighborhoods are in Xicheng District. Therefore, population density and per capita income do not reflect the number of restaurants.
 
-#Discussion
+# Discussion
 ***
 This may be related to the insufficient sample size provided by Foursquare
 
-#Result
+# Result
 ***
 This report may be helpful to those who wish to open a restaurant in Beijing, but it should also be considered in terms of population movement, transportation convenience and rent in Beijing.
